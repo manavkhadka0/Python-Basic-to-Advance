@@ -68,4 +68,5 @@
 </ol>
 </li>
 </ol>
+<p>Lecture will be on <strong>Google Meet</strong>.</p>
 
